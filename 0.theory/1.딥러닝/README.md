@@ -32,11 +32,8 @@ Neural network(perceptron) -> Neural network(mlp) -> Deep learning
   * <b>Dimensionality Reduction</b>
 * Reinforcement Learning (ex. alphago)
 
-```
-Deep Learning의 파워를 알 수 있는 대표적인 분야
-- Feature Extraction
-- Dimensionality Reduction
-```
+### Association Rule Mining
+장바구니 분석을 통해 고안되었다. 고객이 사는 아이템들이 서로 무슨 관계가 있는지 찾기 위한 분석 기법이다.
 
 ### Supervised Learning
 
@@ -60,7 +57,11 @@ Training Set(Labelled or Unlabelled) -> Relation -> Result
 
 ### Supervised vs Unsupervised
 
-분류 vs 군집화
+| 지도 학습 | 비지도 학습 |
+|----------|------------|
+| 데이터로 모델을 학습하여 예측 | 데이터 내 패턴 찾기 |
+| 예측적 | 기술적 |
+| 분류, 회귀, 텍스트 마이닝 | 클러스터링, 연관 규칙 마이닝, 텍스트 마이닝 |
 
 ex)
 ```
