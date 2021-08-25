@@ -9,4 +9,4 @@
 	- 라이브러리
 	- 문제해결
 
-* ### 1. 손글씨 이미지 분류(https://github.com/baelanche/Deep_learning_introduction/tree/master/1.%20%EC%86%90%EA%B8%80%EC%94%A8%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EB%B6%84%EB%A5%98)
+* ### [1. 손글씨 이미지 분류](https://github.com/baelanche/Deep_learning_introduction/tree/master/1.%20%EC%86%90%EA%B8%80%EC%94%A8%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EB%B6%84%EB%A5%98)
